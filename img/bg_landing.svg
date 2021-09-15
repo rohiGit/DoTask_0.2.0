@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="19" width="1357.675" height="1079.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-bg_landing">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="bg_landing" clip-path="url(#clip-bg_landing)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_48" data-name="Group 48">
+      <g id="Scroll_Group_2" data-name="Scroll Group 2" transform="translate(562.325 -18.5)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Group_47" data-name="Group 47" transform="translate(-562.325 18.5)">
+          <path id="Path_37" data-name="Path 37" d="M13951.5,1151.5,13167,1850l792,200Z" transform="translate(-11991 -1170)" fill="#d8652a"/>
+          <path id="Path_38" data-name="Path 38" d="M13167,1850l-112-480,904,680Z" transform="translate(-11991 -1170)" fill="#e86d2e"/>
+          <path id="Path_39" data-name="Path 39" d="M13055,1370l376-80-264,560Z" transform="translate(-11991 -1170)" fill="#db662a"/>
+          <path id="Path_40" data-name="Path 40" d="M13911,2058l-536-136,208,328h328Z" transform="translate(-11991 -1170)" fill="#d8652a"/>
+          <path id="Path_41" data-name="Path 41" d="M13375,1922l-208,240,744-104Z" transform="translate(-11991 -1170)" fill="#e86d2e"/>
+          <path id="Path_42" data-name="Path 42" d="M13351,1914l-296,336h-368Z" transform="translate(-11988 -1168)" fill="#d8652a"/>
+          <path id="Path_43" data-name="Path 43" d="M13055,2250l296-336-568-144Z" transform="translate(-11988 -1168)" fill="#e86d2e"/>
+          <path id="Path_44" data-name="Path 44" d="M12783,1770l-232.675,336.552L13351,1914Z" transform="translate(-11988 -1168)" fill="#db662a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
